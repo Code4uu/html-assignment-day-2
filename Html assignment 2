@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table</title>
+    </head>
+    <body>
+     
+        <table border=4px; bgcolor=pink>
+            <tr bgcolor=white>
+               <td>LANGUAGE</td>
+            <td>FULL FORMS</td>
+            </tr>
+            <tr>
+               <td>HTML</td>
+               <td>Hyper Text Markup Language</td>
+            </tr>
+            <tr>
+               <td>CSS</td>
+               <td>Cascading Style Sheets</td>
+            </tr>
+            <tr>
+               <td>JS</td>
+               <td>JavaScript</td>
+    
+            </tr>
+            <tr>
+               <td>vc</td>
+               <td>visual communication</td>
+    
+            </tr>
+        </table>
+        
+    </body>
+</html>
